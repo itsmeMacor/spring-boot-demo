@@ -1,0 +1,4 @@
+com/disney/princess/disneyprincessmoviescrud/model/DisneyPrincessMovies.class
+com/disney/princess/disneyprincessmoviescrud/repository/IDisneyPrincessMoviesRepository.class
+com/disney/princess/disneyprincessmoviescrud/controller/DisneyPrincessMoviesController.class
+com/disney/princess/disneyprincessmoviescrud/DisneyprincessmoviescrudApplication.class
